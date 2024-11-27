@@ -1,0 +1,4 @@
+Download any Python version. https://www.python.org/downloads/ 
+Using the terminal install pyswip using the command 'pip install pyswip'.
+Check if pyswip is already under the packages in your Python version.
+Restart your machine.
